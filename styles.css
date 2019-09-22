@@ -59,6 +59,7 @@ a:hover{
 .giphy {
   width: 20%;
   border-radius: 100%;
+  margin-top: 50px;
 }
 
 .top-container {
